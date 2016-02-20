@@ -12086,7 +12086,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.6764706, g: 0.6764706, b: 0.6764706, a: 1}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_RaycastTarget: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
@@ -28822,6 +28822,10 @@ Prefab:
     - target: {fileID: 197756, guid: 3b261a2cdefa6a742aa8c0f5fe9c0bc3, type: 2}
       propertyPath: m_Name
       value: hut4 (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6512352, guid: 3b261a2cdefa6a742aa8c0f5fe9c0bc3, type: 2}
+      propertyPath: m_IsTrigger
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 3b261a2cdefa6a742aa8c0f5fe9c0bc3, type: 2}
