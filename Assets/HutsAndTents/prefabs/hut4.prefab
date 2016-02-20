@@ -98,7 +98,7 @@ GameObject:
   - 23: {fileID: 2368050}
   - 114: {fileID: 11439236}
   - 82: {fileID: 8278946}
-  - 65: {fileID: 6554706}
+  - 136: {fileID: 13683780}
   m_Layer: 0
   m_Name: Campfire (4)
   m_TagString: Untagged
@@ -258,9 +258,9 @@ Transform:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 197756}
-  m_LocalRotation: {x: 0, y: -0.9932645, z: 0, w: -0.11586901}
-  m_LocalPosition: {x: 25.799988, y: -0.15, z: 14.799988}
-  m_LocalScale: {x: 4.5, y: 4.5, z: 4.5}
+  m_LocalRotation: {x: 0, y: 0.30220756, z: 0, w: 0.9532422}
+  m_LocalPosition: {x: -16.899994, y: -0.23350286, z: 49.170013}
+  m_LocalScale: {x: 4.5, y: 4.5, z: 4.5000005}
   m_Children:
   - {fileID: 446536}
   - {fileID: 404078}
@@ -708,18 +708,6 @@ BoxCollider:
   serializedVersion: 2
   m_Size: {x: 0.020088675, y: 0.32700014, z: 0.44220802}
   m_Center: {x: 0.56899315, y: -0.28701243, z: 0.21733268}
---- !u!65 &6554706
-BoxCollider:
-  m_ObjectHideFlags: 1
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 145616}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_Enabled: 1
-  serializedVersion: 2
-  m_Size: {x: 2.439311, y: 2.2570493, z: 0.9306822}
-  m_Center: {x: 0.009816759, y: 0.09333097, z: 0.29364637}
 --- !u!82 &8243938
 AudioSource:
   m_ObjectHideFlags: 1
@@ -974,6 +962,19 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   crashSound: {fileID: 8300000, guid: 398ad8dfa4905ff4e8ca7f2f97b00109, type: 3}
+--- !u!136 &13683780
+CapsuleCollider:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 145616}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  m_Radius: 1.1
+  m_Height: 2.2570493
+  m_Direction: 1
+  m_Center: {x: 0.00983202, y: 0.09326994, z: 0.29364628}
 --- !u!198 &19858238
 ParticleSystem:
   m_ObjectHideFlags: 1

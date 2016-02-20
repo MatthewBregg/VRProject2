@@ -79,7 +79,7 @@ GameObject:
   - 23: {fileID: 2355008}
   - 114: {fileID: 11437710}
   - 82: {fileID: 8220290}
-  - 65: {fileID: 6595802}
+  - 136: {fileID: 13670902}
   m_Layer: 0
   m_Name: Campfire
   m_TagString: Untagged
@@ -184,18 +184,6 @@ MeshFilter:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 182118}
   m_Mesh: {fileID: 4300000, guid: 9a7cc71be3b095e419a4eac068e18066, type: 3}
---- !u!65 &6595802
-BoxCollider:
-  m_ObjectHideFlags: 1
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 182118}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_Enabled: 1
-  serializedVersion: 2
-  m_Size: {x: 2.439311, y: 2.2570493, z: 0.9306822}
-  m_Center: {x: 0.009816759, y: 0.09333097, z: 0.29364637}
 --- !u!82 &8220290
 AudioSource:
   m_ObjectHideFlags: 1
@@ -347,6 +335,19 @@ MonoBehaviour:
   minIntensity: 2.5
   maxIntensity: 4
   fireLight: {fileID: 10865384}
+--- !u!136 &13670902
+CapsuleCollider:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 182118}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  m_Radius: 1.2196555
+  m_Height: 2.257049
+  m_Direction: 1
+  m_Center: {x: 0.009816766, y: 0.093330964, z: 0.2936463}
 --- !u!198 &19829444
 ParticleSystem:
   m_ObjectHideFlags: 1
