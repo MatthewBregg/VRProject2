@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\users\dicks\documents\project2\glove stuff\consoleapplication2\source.cpp(50): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+  ConsoleApplication2.vcxproj -> C:\Users\Dicks\Documents\Project2\Glove Stuff\Debug\ConsoleApplication2.exe
