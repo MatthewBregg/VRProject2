@@ -18,8 +18,8 @@ public class ShatterPotteryOnImpact : MonoBehaviour {
         if (collision.gameObject.CompareTag("Table") || collision.gameObject.CompareTag("Player") || collision.gameObject.CompareTag("Pottery")) {
             return;
         }
-        print(collision.gameObject.name);
-        Debug.Log(collision.gameObject.tag);
+//        print(collision.gameObject.name);
+//        Debug.Log(collision.gameObject.tag);
        //Should add a shatter sound to it also!!
         this.shatter();
     }
