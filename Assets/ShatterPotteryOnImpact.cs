@@ -25,6 +25,7 @@ public class ShatterPotteryOnImpact : MonoBehaviour {
     }
 
     public void shatter() {
+		
         Transform t = GetComponent<Transform>();
         shatteredForm.transform.position = t.position;
         shatteredForm.transform.rotation = t.rotation;
@@ -37,7 +38,9 @@ public class ShatterPotteryOnImpact : MonoBehaviour {
         }
         
         shatteredForm.SetActive(true);
-        shatteredForm.GetComponent<AudioSource>().PlayOneShot(shatterSound);
+
+		shatteredForm.GetComponent<AudioSource> ().PlayOneShot (shatterSound);
+		//Avoid shatter sounds at beginning of game from poorly placed pottery.
         gameObject.SetActive(false);
 
     }
