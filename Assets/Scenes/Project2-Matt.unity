@@ -1464,15 +1464,15 @@ Transform:
   - {fileID: 1649695864}
   - {fileID: 1931285244}
   - {fileID: 58977092}
-  - {fileID: 1426715532}
   - {fileID: 821027462}
+  - {fileID: 1426715532}
   - {fileID: 2121864592}
   - {fileID: 1931707859}
   - {fileID: 697974783}
   - {fileID: 1871161813}
   - {fileID: 1364814190}
   m_Father: {fileID: 0}
-  m_RootOrder: 14
+  m_RootOrder: 13
 --- !u!1001 &135282872
 Prefab:
   m_ObjectHideFlags: 0
@@ -2318,7 +2318,7 @@ Transform:
   - {fileID: 1922609469}
   - {fileID: 530595781}
   m_Father: {fileID: 0}
-  m_RootOrder: 15
+  m_RootOrder: 14
 --- !u!1001 &183913028
 Prefab:
   m_ObjectHideFlags: 0
@@ -3780,7 +3780,6 @@ GameObject:
   - 54: {fileID: 271059454}
   - 136: {fileID: 271059453}
   - 114: {fileID: 271059452}
-  - 65: {fileID: 271059456}
   - 82: {fileID: 271059457}
   m_Layer: 0
   m_Name: RigidBodyFPSController
@@ -3856,8 +3855,8 @@ CapsuleCollider:
   m_Material: {fileID: 13400000, guid: cf63880488ec29f43a759ecd9c6c5123, type: 2}
   m_IsTrigger: 0
   m_Enabled: 1
-  m_Radius: 0.5
-  m_Height: 1.6
+  m_Radius: 0.29
+  m_Height: 2
   m_Direction: 1
   m_Center: {x: 0, y: 0, z: 0}
 --- !u!54 &271059454
@@ -3876,18 +3875,6 @@ Rigidbody:
   m_Interpolate: 0
   m_Constraints: 112
   m_CollisionDetection: 0
---- !u!65 &271059456
-BoxCollider:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 271059451}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 1
-  m_Enabled: 1
-  serializedVersion: 2
-  m_Size: {x: 1, y: 1, z: 1}
-  m_Center: {x: 0, y: 0, z: 0}
 --- !u!82 &271059457
 AudioSource:
   m_ObjectHideFlags: 0
@@ -3976,7 +3963,7 @@ RectTransform:
   - {fileID: 1909708389}
   - {fileID: 757041107}
   m_Father: {fileID: 0}
-  m_RootOrder: 10
+  m_RootOrder: 9
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: 284.11664, y: 1.2810001}
@@ -10585,7 +10572,7 @@ Transform:
   - {fileID: 1302641694}
   - {fileID: 1814571399}
   m_Father: {fileID: 0}
-  m_RootOrder: 9
+  m_RootOrder: 7
 --- !u!1001 &503793854
 Prefab:
   m_ObjectHideFlags: 0
@@ -15175,7 +15162,7 @@ Transform:
   - {fileID: 1904456699}
   - {fileID: 585117475}
   m_Father: {fileID: 0}
-  m_RootOrder: 7
+  m_RootOrder: 5
 --- !u!1 &817550914
 GameObject:
   m_ObjectHideFlags: 0
@@ -15261,7 +15248,7 @@ RectTransform:
   m_Children:
   - {fileID: 1014404945}
   m_Father: {fileID: 0}
-  m_RootOrder: 11
+  m_RootOrder: 10
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
   m_AnchoredPosition: {x: 0, y: 0}
@@ -15302,7 +15289,7 @@ Transform:
   - {fileID: 1417639217}
   - {fileID: 753060510}
   m_Father: {fileID: 134853055}
-  m_RootOrder: 4
+  m_RootOrder: 3
 --- !u!1001 &822260117
 Prefab:
   m_ObjectHideFlags: 0
@@ -30707,7 +30694,7 @@ Transform:
   - {fileID: 546744461}
   - {fileID: 1675004293}
   m_Father: {fileID: 0}
-  m_RootOrder: 8
+  m_RootOrder: 6
 --- !u!1001 &1384770676
 Prefab:
   m_ObjectHideFlags: 0
@@ -36452,7 +36439,7 @@ Transform:
   - {fileID: 1213191061}
   - {fileID: 1524424109}
   m_Father: {fileID: 0}
-  m_RootOrder: 5
+  m_RootOrder: 4
 --- !u!1001 &1532642960
 Prefab:
   m_ObjectHideFlags: 0
