@@ -4,8 +4,8 @@ using System.Collections;
 public class FearScript : MonoBehaviour {
 	public GameObject player;
 	private HeartBeat_ControlScript heartrate;
-	public float closeDistance;
-	public float mediumDistance;
+	public float closeDistance = 10;
+	public float mediumDistance = 20;
 	// Use this for initialization
 	void Start () {
 		player = GameObject.FindWithTag ("Player");
