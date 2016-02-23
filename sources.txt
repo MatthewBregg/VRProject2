@@ -50,4 +50,9 @@ https://www.assetstore.unity3d.com/en/#!/content/49698
 Horse Sound
 http://soundbible.com/1302-Galloping-Horse.html
 
+Thud : 
+https://www.freesound.org/people/juskiddink/sounds/108617/
+
+Furniture Crash : 
+http://soundbible.com/715-Dropped-Wooden-Floor.html
 
