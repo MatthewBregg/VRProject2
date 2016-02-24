@@ -1,22 +1,20 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class CatchFire : MonoBehaviour {
-	public GameObject Fire;
+public class CampWallCatchFire : MonoBehaviour {
+	public GameObject FireToInstantiate;
 	// Use this for initialization
 	void Start () {
-		
+	
 	}
 	
 	// Update is called once per frame
 	void Update () {
 	
 	}
-	public void OnTriggerEnter(Collider collision) {
+	public void OnCollidionEnter(Collision collision) {
 		if (collision.gameObject.CompareTag ("CowboyTorch")) {
-			
-			Fire.SetActive (true);
+			Object.Instantiate (FireToInstantiate);
 		}
 	}
-
 }
