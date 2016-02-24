@@ -2,10 +2,11 @@
 using System.Collections;
 
 public class AttackerAgentScript : MonoBehaviour {
-	public Transform attackTarget;
-	public Transform retreatTarget;
+	bool attackStarted = false;
 	bool attackTargetReached = false;
 	bool retreatTargetReached = false;
+	public Transform attackTarget;
+	public Transform retreatTarget;
 	NavMeshAgent agent;
 	Animator anim;
 
@@ -17,16 +18,25 @@ public class AttackerAgentScript : MonoBehaviour {
 	void Start () 
 	{
 		agent = GetComponent<NavMeshAgent> ();
-		agent.SetDestination (attackTarget.position);
-
 		Component[] animatorComponents = GetComponentsInChildren<Animator> ();
 		anim = animatorComponents [0] as Animator; // there only exists one animator component
+		BeginAttack();
+	}
+
+	public void BeginAttack ()
+	{
+		attackStarted = true;
+		gameObject.SetActive (true);
+		agent.SetDestination (attackTarget.position);
 		anim.SetFloat ("Walk", 1);
 		anim.SetFloat ("Run", 1);
 	}
 	
 	void Update () 
 	{
+		if (!attackStarted)
+			return;
+		
 		if (!attackTargetReached && IsDestinationCloseEnough (40.0f)) {
 			torch.transform.SetParent (torchMaster.transform);
 			StartCoroutine(SimulateProjectile());
@@ -34,8 +44,7 @@ public class AttackerAgentScript : MonoBehaviour {
 			agent.SetDestination (retreatTarget.position);
 		} else if (!retreatTargetReached && IsDestinationCloseEnough (0f)) {
 			retreatTargetReached = true;
-			anim.SetFloat ("Walk", 0);
-			anim.SetFloat ("Run", 0);
+			gameObject.SetActive (false);
 		}
 	}
 
