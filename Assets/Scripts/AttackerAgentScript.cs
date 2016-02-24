@@ -20,7 +20,7 @@ public class AttackerAgentScript : MonoBehaviour {
 		agent = GetComponent<NavMeshAgent> ();
 		Component[] animatorComponents = GetComponentsInChildren<Animator> ();
 		anim = animatorComponents [0] as Animator; // there only exists one animator component
-		BeginAttack();
+		//BeginAttack();
 	}
 
 	public void BeginAttack ()

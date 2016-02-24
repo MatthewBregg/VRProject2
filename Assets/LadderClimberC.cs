@@ -35,7 +35,7 @@ public class LadderClimberC : MonoBehaviour {
 
 
             if (Input.GetKey(KeyCode.Z) || Input.GetAxis("Vertical") > 0) {
-                Debug.Log("Climbing");
+                //Debug.Log("Climbing");
                 playerObject.transform.Translate(new Vector3(0, 1, 0) * Time.deltaTime * speed);
 
             }
