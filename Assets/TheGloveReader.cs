@@ -2,7 +2,6 @@
 using System.Collections;
 
 public class TheGloveReader : MonoBehaviour {
-    char[] whitespace = new char[] { ' ', '\t' };
     Transform t;
     // Use this for initialization
     void Start () {

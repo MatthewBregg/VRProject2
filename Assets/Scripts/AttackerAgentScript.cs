@@ -27,12 +27,12 @@ public class AttackerAgentScript : MonoBehaviour {
 	
 	void Update () 
 	{
-		if (!attackTargetReached && IsDetinationReached ()) {
+		if (!attackTargetReached && IsDestinationCloseEnough (40.0f)) {
 			torch.transform.SetParent (torchMaster.transform);
 			StartCoroutine(SimulateProjectile());
 			attackTargetReached = true;
 			agent.SetDestination (retreatTarget.position);
-		} else if (!retreatTargetReached && IsDetinationReached ()) {
+		} else if (!retreatTargetReached && IsDestinationCloseEnough (0f)) {
 			retreatTargetReached = true;
 			anim.SetFloat ("Walk", 0);
 			anim.SetFloat ("Run", 0);
@@ -75,13 +75,11 @@ public class AttackerAgentScript : MonoBehaviour {
 		}
 	}  
 
-	bool IsDetinationReached ()
+	bool IsDestinationCloseEnough (float distance)
 	{
 		if (!agent.pathPending) {
-			if (agent.remainingDistance <= agent.stoppingDistance) {
-				if (!agent.hasPath || agent.velocity.sqrMagnitude == 0f) {
-					return true;
-				}
+			if ((agent.remainingDistance - distance) <= agent.stoppingDistance) {
+				return true;
 			}
 		}
 

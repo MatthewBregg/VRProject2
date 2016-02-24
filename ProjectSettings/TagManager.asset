@@ -8,6 +8,7 @@ TagManager:
   - Table
   - Pottery
   - CowboyTorch
+  - Flammable
   layers:
   - Default
   - TransparentFX
