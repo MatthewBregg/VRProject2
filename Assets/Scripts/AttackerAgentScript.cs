@@ -17,14 +17,15 @@ public class AttackerAgentScript : MonoBehaviour {
 
 	void Start () 
 	{
-		agent = GetComponent<NavMeshAgent> ();
-		Component[] animatorComponents = GetComponentsInChildren<Animator> ();
-		anim = animatorComponents [0] as Animator; // there only exists one animator component
-		//BeginAttack();
+		
 	}
 
 	public void BeginAttack ()
 	{
+		agent = GetComponent<NavMeshAgent> ();
+		Component[] animatorComponents = GetComponentsInChildren<Animator> ();
+		anim = animatorComponents [0] as Animator; // there only exists one animator component
+		//BeginAttack();
 		attackStarted = true;
 		gameObject.SetActive (true);
 		agent.SetDestination (attackTarget.position);

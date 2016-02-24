@@ -19,6 +19,11 @@ public class StartAttack : MonoBehaviour {
 	public void OnTriggerEnter(Collider collider) {
 		//Debug.Log ("Entered!");
 		if (collider.gameObject.CompareTag ("Player")) {
+			attackerRoot.SetActive (true);
+//			foreach (Transform x in attackerRoot.transform) {
+//				x.gameObject.SetActive (true);
+//
+//			}
 			AttackerAgentScript[] attackers = attackerRoot.GetComponentsInChildren<AttackerAgentScript> ();
 			//Debug.Log ("Found " + attackers.Length + " attackers");
 			this.GetComponentInChildren<HaloMarker> ().gameObject.SetActive (false);
