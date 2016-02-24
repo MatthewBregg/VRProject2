@@ -14,7 +14,6 @@ public class CatchFire : MonoBehaviour {
 	}
 	public void OnTriggerEnter(Collider collision) {
 		if (collision.gameObject.CompareTag ("CowboyTorch")) {
-			
 			Fire.SetActive (true);
 		}
 	}

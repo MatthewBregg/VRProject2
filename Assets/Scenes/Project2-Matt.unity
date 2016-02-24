@@ -242,6 +242,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   FireToInstantiate: {fileID: 147166, guid: 65d77b0d001bfc44aa84746a7a8993f6, type: 2}
+  delay: 5
 --- !u!1 &24332054
 GameObject:
   m_ObjectHideFlags: 0
@@ -333,6 +334,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   FireToInstantiate: {fileID: 147166, guid: 65d77b0d001bfc44aa84746a7a8993f6, type: 2}
+  delay: 5
 --- !u!1001 &25666759
 Prefab:
   m_ObjectHideFlags: 0
@@ -542,6 +544,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   FireToInstantiate: {fileID: 147166, guid: 65d77b0d001bfc44aa84746a7a8993f6, type: 2}
+  delay: 5
 --- !u!1001 &31386075
 Prefab:
   m_ObjectHideFlags: 0
@@ -1460,6 +1463,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   FireToInstantiate: {fileID: 147166, guid: 65d77b0d001bfc44aa84746a7a8993f6, type: 2}
+  delay: 5
 --- !u!1 &58977091
 GameObject:
   m_ObjectHideFlags: 0
@@ -1670,6 +1674,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   FireToInstantiate: {fileID: 147166, guid: 65d77b0d001bfc44aa84746a7a8993f6, type: 2}
+  delay: 5
 --- !u!1001 &74245024
 Prefab:
   m_ObjectHideFlags: 0
@@ -1885,6 +1890,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   FireToInstantiate: {fileID: 147166, guid: 65d77b0d001bfc44aa84746a7a8993f6, type: 2}
+  delay: 5
 --- !u!1001 &84009477
 Prefab:
   m_ObjectHideFlags: 0
@@ -2166,6 +2172,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   FireToInstantiate: {fileID: 147166, guid: 65d77b0d001bfc44aa84746a7a8993f6, type: 2}
+  delay: 5
 --- !u!1001 &110748116
 Prefab:
   m_ObjectHideFlags: 0
@@ -2389,6 +2396,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   FireToInstantiate: {fileID: 147166, guid: 65d77b0d001bfc44aa84746a7a8993f6, type: 2}
+  delay: 5
 --- !u!1 &116672754
 GameObject:
   m_ObjectHideFlags: 0
@@ -2480,6 +2488,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   FireToInstantiate: {fileID: 147166, guid: 65d77b0d001bfc44aa84746a7a8993f6, type: 2}
+  delay: 5
 --- !u!1 &118719827
 GameObject:
   m_ObjectHideFlags: 0
@@ -2571,6 +2580,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   FireToInstantiate: {fileID: 147166, guid: 65d77b0d001bfc44aa84746a7a8993f6, type: 2}
+  delay: 5
 --- !u!1001 &120973113
 Prefab:
   m_ObjectHideFlags: 0
@@ -3599,6 +3609,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   FireToInstantiate: {fileID: 147166, guid: 65d77b0d001bfc44aa84746a7a8993f6, type: 2}
+  delay: 5
 --- !u!1001 &147533474
 Prefab:
   m_ObjectHideFlags: 0
@@ -3756,6 +3767,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   FireToInstantiate: {fileID: 147166, guid: 65d77b0d001bfc44aa84746a7a8993f6, type: 2}
+  delay: 5
 --- !u!1001 &154436909
 Prefab:
   m_ObjectHideFlags: 0
@@ -4243,6 +4255,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   FireToInstantiate: {fileID: 147166, guid: 65d77b0d001bfc44aa84746a7a8993f6, type: 2}
+  delay: 5
 --- !u!1001 &175000609
 Prefab:
   m_ObjectHideFlags: 0
@@ -5741,6 +5754,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   FireToInstantiate: {fileID: 147166, guid: 65d77b0d001bfc44aa84746a7a8993f6, type: 2}
+  delay: 5
 --- !u!1001 &226900876
 Prefab:
   m_ObjectHideFlags: 0
@@ -6859,6 +6873,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   FireToInstantiate: {fileID: 147166, guid: 65d77b0d001bfc44aa84746a7a8993f6, type: 2}
+  delay: 5
 --- !u!1001 &280080733
 Prefab:
   m_ObjectHideFlags: 0
@@ -7590,6 +7605,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   FireToInstantiate: {fileID: 147166, guid: 65d77b0d001bfc44aa84746a7a8993f6, type: 2}
+  delay: 5
 --- !u!1 &298470009
 GameObject:
   m_ObjectHideFlags: 0
@@ -7926,6 +7942,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   FireToInstantiate: {fileID: 147166, guid: 65d77b0d001bfc44aa84746a7a8993f6, type: 2}
+  delay: 5
 --- !u!1001 &318656035
 Prefab:
   m_ObjectHideFlags: 0
@@ -8861,6 +8878,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   FireToInstantiate: {fileID: 147166, guid: 65d77b0d001bfc44aa84746a7a8993f6, type: 2}
+  delay: 5
 --- !u!1001 &329846202
 Prefab:
   m_ObjectHideFlags: 0
@@ -9566,6 +9584,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   FireToInstantiate: {fileID: 147166, guid: 65d77b0d001bfc44aa84746a7a8993f6, type: 2}
+  delay: 5
 --- !u!1001 &362253285
 Prefab:
   m_ObjectHideFlags: 0
@@ -9925,6 +9944,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   FireToInstantiate: {fileID: 147166, guid: 65d77b0d001bfc44aa84746a7a8993f6, type: 2}
+  delay: 5
 --- !u!1001 &378757004
 Prefab:
   m_ObjectHideFlags: 0
@@ -10082,6 +10102,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   FireToInstantiate: {fileID: 147166, guid: 65d77b0d001bfc44aa84746a7a8993f6, type: 2}
+  delay: 5
 --- !u!4 &385379708 stripped
 Transform:
   m_PrefabParentObject: {fileID: 415406, guid: bb975d633cf124849bd819ba64122c7d, type: 2}
@@ -10243,6 +10264,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   FireToInstantiate: {fileID: 147166, guid: 65d77b0d001bfc44aa84746a7a8993f6, type: 2}
+  delay: 5
 --- !u!1001 &388946261
 Prefab:
   m_ObjectHideFlags: 0
@@ -10420,6 +10442,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   FireToInstantiate: {fileID: 147166, guid: 65d77b0d001bfc44aa84746a7a8993f6, type: 2}
+  delay: 5
 --- !u!1001 &395321128
 Prefab:
   m_ObjectHideFlags: 0
@@ -13745,6 +13768,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   FireToInstantiate: {fileID: 147166, guid: 65d77b0d001bfc44aa84746a7a8993f6, type: 2}
+  delay: 5
 --- !u!1001 &479651287
 Prefab:
   m_ObjectHideFlags: 0
@@ -15690,6 +15714,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   FireToInstantiate: {fileID: 147166, guid: 65d77b0d001bfc44aa84746a7a8993f6, type: 2}
+  delay: 5
 --- !u!4 &503147167 stripped
 Transform:
   m_PrefabParentObject: {fileID: 415406, guid: bb975d633cf124849bd819ba64122c7d, type: 2}
@@ -16070,6 +16095,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   FireToInstantiate: {fileID: 147166, guid: 65d77b0d001bfc44aa84746a7a8993f6, type: 2}
+  delay: 5
 --- !u!1 &510672103
 GameObject:
   m_ObjectHideFlags: 0
@@ -16161,6 +16187,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   FireToInstantiate: {fileID: 147166, guid: 65d77b0d001bfc44aa84746a7a8993f6, type: 2}
+  delay: 5
 --- !u!1 &512047898
 GameObject:
   m_ObjectHideFlags: 0
@@ -17409,6 +17436,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   FireToInstantiate: {fileID: 147166, guid: 65d77b0d001bfc44aa84746a7a8993f6, type: 2}
+  delay: 5
 --- !u!1001 &558212646
 Prefab:
   m_ObjectHideFlags: 0
@@ -17632,6 +17660,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   FireToInstantiate: {fileID: 147166, guid: 65d77b0d001bfc44aa84746a7a8993f6, type: 2}
+  delay: 5
 --- !u!1001 &581353145
 Prefab:
   m_ObjectHideFlags: 0
@@ -18493,6 +18522,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   FireToInstantiate: {fileID: 147166, guid: 65d77b0d001bfc44aa84746a7a8993f6, type: 2}
+  delay: 5
 --- !u!1001 &637261113
 Prefab:
   m_ObjectHideFlags: 0
@@ -19004,6 +19034,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   FireToInstantiate: {fileID: 147166, guid: 65d77b0d001bfc44aa84746a7a8993f6, type: 2}
+  delay: 5
 --- !u!1001 &654784476
 Prefab:
   m_ObjectHideFlags: 0
@@ -19432,6 +19463,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   FireToInstantiate: {fileID: 147166, guid: 65d77b0d001bfc44aa84746a7a8993f6, type: 2}
+  delay: 5
 --- !u!1001 &666550035
 Prefab:
   m_ObjectHideFlags: 0
@@ -19870,6 +19902,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   FireToInstantiate: {fileID: 147166, guid: 65d77b0d001bfc44aa84746a7a8993f6, type: 2}
+  delay: 5
 --- !u!1 &692539933
 GameObject:
   m_ObjectHideFlags: 0
@@ -19961,6 +19994,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   FireToInstantiate: {fileID: 147166, guid: 65d77b0d001bfc44aa84746a7a8993f6, type: 2}
+  delay: 5
 --- !u!1001 &697974782
 Prefab:
   m_ObjectHideFlags: 0
@@ -20771,6 +20805,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   FireToInstantiate: {fileID: 147166, guid: 65d77b0d001bfc44aa84746a7a8993f6, type: 2}
+  delay: 5
 --- !u!1001 &718046976
 Prefab:
   m_ObjectHideFlags: 0
@@ -21872,6 +21907,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   FireToInstantiate: {fileID: 147166, guid: 65d77b0d001bfc44aa84746a7a8993f6, type: 2}
+  delay: 5
 --- !u!1001 &754379921
 Prefab:
   m_ObjectHideFlags: 0
@@ -22515,6 +22551,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   FireToInstantiate: {fileID: 147166, guid: 65d77b0d001bfc44aa84746a7a8993f6, type: 2}
+  delay: 5
 --- !u!1001 &771309565
 Prefab:
   m_ObjectHideFlags: 0
@@ -23123,6 +23160,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   FireToInstantiate: {fileID: 147166, guid: 65d77b0d001bfc44aa84746a7a8993f6, type: 2}
+  delay: 5
 --- !u!1001 &794994916
 Prefab:
   m_ObjectHideFlags: 0
@@ -23834,6 +23872,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   FireToInstantiate: {fileID: 147166, guid: 65d77b0d001bfc44aa84746a7a8993f6, type: 2}
+  delay: 5
 --- !u!4 &819848555 stripped
 Transform:
   m_PrefabParentObject: {fileID: 415406, guid: bb975d633cf124849bd819ba64122c7d, type: 2}
@@ -24126,6 +24165,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   FireToInstantiate: {fileID: 147166, guid: 65d77b0d001bfc44aa84746a7a8993f6, type: 2}
+  delay: 5
 --- !u!1001 &829856422
 Prefab:
   m_ObjectHideFlags: 0
@@ -24600,6 +24640,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   FireToInstantiate: {fileID: 147166, guid: 65d77b0d001bfc44aa84746a7a8993f6, type: 2}
+  delay: 5
 --- !u!1001 &858193744
 Prefab:
   m_ObjectHideFlags: 0
@@ -24757,6 +24798,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   FireToInstantiate: {fileID: 147166, guid: 65d77b0d001bfc44aa84746a7a8993f6, type: 2}
+  delay: 5
 --- !u!1 &863717689
 GameObject:
   m_ObjectHideFlags: 0
@@ -24848,6 +24890,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   FireToInstantiate: {fileID: 147166, guid: 65d77b0d001bfc44aa84746a7a8993f6, type: 2}
+  delay: 5
 --- !u!1001 &866271571
 Prefab:
   m_ObjectHideFlags: 0
@@ -25211,6 +25254,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   FireToInstantiate: {fileID: 147166, guid: 65d77b0d001bfc44aa84746a7a8993f6, type: 2}
+  delay: 5
 --- !u!1001 &871411460
 Prefab:
   m_ObjectHideFlags: 0
@@ -25850,6 +25894,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   FireToInstantiate: {fileID: 147166, guid: 65d77b0d001bfc44aa84746a7a8993f6, type: 2}
+  delay: 5
 --- !u!1 &898363986
 GameObject:
   m_ObjectHideFlags: 0
@@ -25941,6 +25986,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   FireToInstantiate: {fileID: 147166, guid: 65d77b0d001bfc44aa84746a7a8993f6, type: 2}
+  delay: 5
 --- !u!1001 &899246931
 Prefab:
   m_ObjectHideFlags: 0
@@ -26098,6 +26144,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   FireToInstantiate: {fileID: 147166, guid: 65d77b0d001bfc44aa84746a7a8993f6, type: 2}
+  delay: 5
 --- !u!1001 &905945462
 Prefab:
   m_ObjectHideFlags: 0
@@ -29555,6 +29602,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   FireToInstantiate: {fileID: 147166, guid: 65d77b0d001bfc44aa84746a7a8993f6, type: 2}
+  delay: 5
 --- !u!1001 &978947348
 Prefab:
   m_ObjectHideFlags: 0
@@ -29700,6 +29748,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   FireToInstantiate: {fileID: 147166, guid: 65d77b0d001bfc44aa84746a7a8993f6, type: 2}
+  delay: 5
 --- !u!1 &982347283
 GameObject:
   m_ObjectHideFlags: 0
@@ -29708,13 +29757,14 @@ GameObject:
   serializedVersion: 4
   m_Component:
   - 4: {fileID: 982347284}
+  - 114: {fileID: 982347285}
   m_Layer: 0
   m_Name: Fire
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &982347284
 Transform:
   m_ObjectHideFlags: 0
@@ -29728,6 +29778,20 @@ Transform:
   - {fileID: 739866396}
   m_Father: {fileID: 1317216729}
   m_RootOrder: 1
+--- !u!114 &982347285
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 982347283}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 464a2ec1b6824de44bdb9f63a96e7cca, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  player: {fileID: 0}
+  closeDistance: 3
+  mediumDistance: 7
 --- !u!4 &983931849 stripped
 Transform:
   m_PrefabParentObject: {fileID: 415406, guid: bb975d633cf124849bd819ba64122c7d, type: 2}
@@ -30033,6 +30097,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   FireToInstantiate: {fileID: 147166, guid: 65d77b0d001bfc44aa84746a7a8993f6, type: 2}
+  delay: 5
 --- !u!1001 &995208129
 Prefab:
   m_ObjectHideFlags: 0
@@ -30304,6 +30369,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   FireToInstantiate: {fileID: 147166, guid: 65d77b0d001bfc44aa84746a7a8993f6, type: 2}
+  delay: 5
 --- !u!1001 &999108832
 Prefab:
   m_ObjectHideFlags: 0
@@ -30457,6 +30523,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   FireToInstantiate: {fileID: 147166, guid: 65d77b0d001bfc44aa84746a7a8993f6, type: 2}
+  delay: 5
 --- !u!1001 &1010441766
 Prefab:
   m_ObjectHideFlags: 0
@@ -33668,6 +33735,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   FireToInstantiate: {fileID: 147166, guid: 65d77b0d001bfc44aa84746a7a8993f6, type: 2}
+  delay: 5
 --- !u!4 &1073503084 stripped
 Transform:
   m_PrefabParentObject: {fileID: 415406, guid: bb975d633cf124849bd819ba64122c7d, type: 2}
@@ -33903,26 +33971,6 @@ Prefab:
       propertyPath: m_Name
       value: Hut - Attack 3
       objectReference: {fileID: 0}
-    - target: {fileID: 145522, guid: 4b59d31a34b23d74fa91fad6d0a6da25, type: 2}
-      propertyPath: m_StaticEditorFlags
-      value: 8
-      objectReference: {fileID: 0}
-    - target: {fileID: 110048, guid: 4b59d31a34b23d74fa91fad6d0a6da25, type: 2}
-      propertyPath: m_StaticEditorFlags
-      value: 8
-      objectReference: {fileID: 0}
-    - target: {fileID: 186972, guid: 4b59d31a34b23d74fa91fad6d0a6da25, type: 2}
-      propertyPath: m_StaticEditorFlags
-      value: 8
-      objectReference: {fileID: 0}
-    - target: {fileID: 136562, guid: 4b59d31a34b23d74fa91fad6d0a6da25, type: 2}
-      propertyPath: m_StaticEditorFlags
-      value: 8
-      objectReference: {fileID: 0}
-    - target: {fileID: 188122, guid: 4b59d31a34b23d74fa91fad6d0a6da25, type: 2}
-      propertyPath: m_StaticEditorFlags
-      value: 8
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 4b59d31a34b23d74fa91fad6d0a6da25, type: 2}
   m_IsPrefabParent: 0
@@ -34021,6 +34069,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   FireToInstantiate: {fileID: 147166, guid: 65d77b0d001bfc44aa84746a7a8993f6, type: 2}
+  delay: 5
 --- !u!1 &1092607359
 GameObject:
   m_ObjectHideFlags: 0
@@ -35970,6 +36019,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   FireToInstantiate: {fileID: 147166, guid: 65d77b0d001bfc44aa84746a7a8993f6, type: 2}
+  delay: 5
 --- !u!1001 &1103811650
 Prefab:
   m_ObjectHideFlags: 0
@@ -36565,6 +36615,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   FireToInstantiate: {fileID: 147166, guid: 65d77b0d001bfc44aa84746a7a8993f6, type: 2}
+  delay: 5
 --- !u!1001 &1111627921
 Prefab:
   m_ObjectHideFlags: 0
@@ -36950,6 +37001,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   FireToInstantiate: {fileID: 147166, guid: 65d77b0d001bfc44aa84746a7a8993f6, type: 2}
+  delay: 5
 --- !u!1 &1125867089
 GameObject:
   m_ObjectHideFlags: 0
@@ -37041,6 +37093,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   FireToInstantiate: {fileID: 147166, guid: 65d77b0d001bfc44aa84746a7a8993f6, type: 2}
+  delay: 5
 --- !u!1001 &1129704571
 Prefab:
   m_ObjectHideFlags: 0
@@ -37330,6 +37383,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   FireToInstantiate: {fileID: 147166, guid: 65d77b0d001bfc44aa84746a7a8993f6, type: 2}
+  delay: 5
 --- !u!1001 &1138229585
 Prefab:
   m_ObjectHideFlags: 0
@@ -37725,6 +37779,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   FireToInstantiate: {fileID: 147166, guid: 65d77b0d001bfc44aa84746a7a8993f6, type: 2}
+  delay: 5
 --- !u!1 &1160911214
 GameObject:
   m_ObjectHideFlags: 0
@@ -38149,6 +38204,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   FireToInstantiate: {fileID: 147166, guid: 65d77b0d001bfc44aa84746a7a8993f6, type: 2}
+  delay: 5
 --- !u!1 &1168492225
 GameObject:
   m_ObjectHideFlags: 0
@@ -38240,6 +38296,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   FireToInstantiate: {fileID: 147166, guid: 65d77b0d001bfc44aa84746a7a8993f6, type: 2}
+  delay: 5
 --- !u!1 &1170116745
 GameObject:
   m_ObjectHideFlags: 0
@@ -38331,6 +38388,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   FireToInstantiate: {fileID: 147166, guid: 65d77b0d001bfc44aa84746a7a8993f6, type: 2}
+  delay: 5
 --- !u!4 &1170928917 stripped
 Transform:
   m_PrefabParentObject: {fileID: 415406, guid: bb975d633cf124849bd819ba64122c7d, type: 2}
@@ -38778,6 +38836,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   FireToInstantiate: {fileID: 147166, guid: 65d77b0d001bfc44aa84746a7a8993f6, type: 2}
+  delay: 5
 --- !u!1001 &1191743994
 Prefab:
   m_ObjectHideFlags: 0
@@ -39014,6 +39073,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   FireToInstantiate: {fileID: 147166, guid: 65d77b0d001bfc44aa84746a7a8993f6, type: 2}
+  delay: 5
 --- !u!1001 &1202084662
 Prefab:
   m_ObjectHideFlags: 0
@@ -39257,6 +39317,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   FireToInstantiate: {fileID: 147166, guid: 65d77b0d001bfc44aa84746a7a8993f6, type: 2}
+  delay: 5
 --- !u!1001 &1205405471
 Prefab:
   m_ObjectHideFlags: 0
@@ -40024,6 +40085,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   FireToInstantiate: {fileID: 147166, guid: 65d77b0d001bfc44aa84746a7a8993f6, type: 2}
+  delay: 5
 --- !u!1001 &1217826188
 Prefab:
   m_ObjectHideFlags: 0
@@ -40493,6 +40555,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   FireToInstantiate: {fileID: 147166, guid: 65d77b0d001bfc44aa84746a7a8993f6, type: 2}
+  delay: 5
 --- !u!1 &1222320247
 GameObject:
   m_ObjectHideFlags: 0
@@ -42564,6 +42627,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   FireToInstantiate: {fileID: 147166, guid: 65d77b0d001bfc44aa84746a7a8993f6, type: 2}
+  delay: 5
 --- !u!1 &1240605311
 GameObject:
   m_ObjectHideFlags: 0
@@ -42655,6 +42719,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   FireToInstantiate: {fileID: 147166, guid: 65d77b0d001bfc44aa84746a7a8993f6, type: 2}
+  delay: 5
 --- !u!1 &1241665282
 GameObject:
   m_ObjectHideFlags: 0
@@ -43194,6 +43259,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   FireToInstantiate: {fileID: 147166, guid: 65d77b0d001bfc44aa84746a7a8993f6, type: 2}
+  delay: 5
 --- !u!1 &1251731124
 GameObject:
   m_ObjectHideFlags: 0
@@ -43797,6 +43863,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   FireToInstantiate: {fileID: 147166, guid: 65d77b0d001bfc44aa84746a7a8993f6, type: 2}
+  delay: 5
 --- !u!1001 &1261620451
 Prefab:
   m_ObjectHideFlags: 0
@@ -44016,6 +44083,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   FireToInstantiate: {fileID: 147166, guid: 65d77b0d001bfc44aa84746a7a8993f6, type: 2}
+  delay: 5
 --- !u!1 &1273455390
 GameObject:
   m_ObjectHideFlags: 0
@@ -44107,6 +44175,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   FireToInstantiate: {fileID: 147166, guid: 65d77b0d001bfc44aa84746a7a8993f6, type: 2}
+  delay: 5
 --- !u!4 &1277495923 stripped
 Transform:
   m_PrefabParentObject: {fileID: 415406, guid: bb975d633cf124849bd819ba64122c7d, type: 2}
@@ -44450,6 +44519,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   FireToInstantiate: {fileID: 147166, guid: 65d77b0d001bfc44aa84746a7a8993f6, type: 2}
+  delay: 5
 --- !u!1 &1302641693
 GameObject:
   m_ObjectHideFlags: 0
@@ -46177,6 +46247,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   FireToInstantiate: {fileID: 147166, guid: 65d77b0d001bfc44aa84746a7a8993f6, type: 2}
+  delay: 5
 --- !u!1 &1347052496
 GameObject:
   m_ObjectHideFlags: 0
@@ -46268,6 +46339,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   FireToInstantiate: {fileID: 147166, guid: 65d77b0d001bfc44aa84746a7a8993f6, type: 2}
+  delay: 5
 --- !u!1001 &1347861713
 Prefab:
   m_ObjectHideFlags: 0
@@ -46802,6 +46874,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   FireToInstantiate: {fileID: 147166, guid: 65d77b0d001bfc44aa84746a7a8993f6, type: 2}
+  delay: 5
 --- !u!1 &1360617218
 GameObject:
   m_ObjectHideFlags: 0
@@ -46893,6 +46966,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   FireToInstantiate: {fileID: 147166, guid: 65d77b0d001bfc44aa84746a7a8993f6, type: 2}
+  delay: 5
 --- !u!1001 &1362393148
 Prefab:
   m_ObjectHideFlags: 0
@@ -47256,6 +47330,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   FireToInstantiate: {fileID: 147166, guid: 65d77b0d001bfc44aa84746a7a8993f6, type: 2}
+  delay: 5
 --- !u!1001 &1372970450
 Prefab:
   m_ObjectHideFlags: 0
@@ -47798,6 +47873,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   FireToInstantiate: {fileID: 147166, guid: 65d77b0d001bfc44aa84746a7a8993f6, type: 2}
+  delay: 5
 --- !u!1001 &1386682345
 Prefab:
   m_ObjectHideFlags: 0
@@ -47955,6 +48031,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   FireToInstantiate: {fileID: 147166, guid: 65d77b0d001bfc44aa84746a7a8993f6, type: 2}
+  delay: 5
 --- !u!1001 &1392123976
 Prefab:
   m_ObjectHideFlags: 0
@@ -48598,6 +48675,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   FireToInstantiate: {fileID: 147166, guid: 65d77b0d001bfc44aa84746a7a8993f6, type: 2}
+  delay: 5
 --- !u!1 &1395434057
 GameObject:
   m_ObjectHideFlags: 0
@@ -48689,6 +48767,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   FireToInstantiate: {fileID: 147166, guid: 65d77b0d001bfc44aa84746a7a8993f6, type: 2}
+  delay: 5
 --- !u!1001 &1397992541
 Prefab:
   m_ObjectHideFlags: 0
@@ -49291,6 +49370,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   FireToInstantiate: {fileID: 147166, guid: 65d77b0d001bfc44aa84746a7a8993f6, type: 2}
+  delay: 5
 --- !u!4 &1406074587 stripped
 Transform:
   m_PrefabParentObject: {fileID: 415406, guid: bb975d633cf124849bd819ba64122c7d, type: 2}
@@ -50605,6 +50685,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   FireToInstantiate: {fileID: 147166, guid: 65d77b0d001bfc44aa84746a7a8993f6, type: 2}
+  delay: 5
 --- !u!1001 &1465399023
 Prefab:
   m_ObjectHideFlags: 0
@@ -51054,6 +51135,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   FireToInstantiate: {fileID: 147166, guid: 65d77b0d001bfc44aa84746a7a8993f6, type: 2}
+  delay: 5
 --- !u!1001 &1471795664
 Prefab:
   m_ObjectHideFlags: 0
@@ -51611,6 +51693,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   FireToInstantiate: {fileID: 147166, guid: 65d77b0d001bfc44aa84746a7a8993f6, type: 2}
+  delay: 5
 --- !u!1001 &1488198694
 Prefab:
   m_ObjectHideFlags: 0
@@ -51768,6 +51851,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   FireToInstantiate: {fileID: 147166, guid: 65d77b0d001bfc44aa84746a7a8993f6, type: 2}
+  delay: 5
 --- !u!1001 &1492643796
 Prefab:
   m_ObjectHideFlags: 0
@@ -55497,6 +55581,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   FireToInstantiate: {fileID: 147166, guid: 65d77b0d001bfc44aa84746a7a8993f6, type: 2}
+  delay: 5
 --- !u!1001 &1530614191
 Prefab:
   m_ObjectHideFlags: 0
@@ -55934,6 +56019,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   FireToInstantiate: {fileID: 147166, guid: 65d77b0d001bfc44aa84746a7a8993f6, type: 2}
+  delay: 5
 --- !u!1001 &1552283571
 Prefab:
   m_ObjectHideFlags: 0
@@ -56339,6 +56425,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   FireToInstantiate: {fileID: 147166, guid: 65d77b0d001bfc44aa84746a7a8993f6, type: 2}
+  delay: 5
 --- !u!1001 &1569302602
 Prefab:
   m_ObjectHideFlags: 0
@@ -56953,6 +57040,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   FireToInstantiate: {fileID: 147166, guid: 65d77b0d001bfc44aa84746a7a8993f6, type: 2}
+  delay: 5
 --- !u!1 &1596318586
 GameObject:
   m_ObjectHideFlags: 0
@@ -58905,6 +58993,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   FireToInstantiate: {fileID: 147166, guid: 65d77b0d001bfc44aa84746a7a8993f6, type: 2}
+  delay: 5
 --- !u!1001 &1609179464
 Prefab:
   m_ObjectHideFlags: 0
@@ -59428,6 +59517,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   FireToInstantiate: {fileID: 147166, guid: 65d77b0d001bfc44aa84746a7a8993f6, type: 2}
+  delay: 5
 --- !u!1001 &1630302929
 Prefab:
   m_ObjectHideFlags: 0
@@ -59924,6 +60014,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   FireToInstantiate: {fileID: 147166, guid: 65d77b0d001bfc44aa84746a7a8993f6, type: 2}
+  delay: 5
 --- !u!1001 &1635524587
 Prefab:
   m_ObjectHideFlags: 0
@@ -60147,6 +60238,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   FireToInstantiate: {fileID: 147166, guid: 65d77b0d001bfc44aa84746a7a8993f6, type: 2}
+  delay: 5
 --- !u!1001 &1646572206
 Prefab:
   m_ObjectHideFlags: 0
@@ -61073,6 +61165,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   FireToInstantiate: {fileID: 147166, guid: 65d77b0d001bfc44aa84746a7a8993f6, type: 2}
+  delay: 5
 --- !u!1001 &1675004292
 Prefab:
   m_ObjectHideFlags: 0
@@ -61781,6 +61874,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   FireToInstantiate: {fileID: 147166, guid: 65d77b0d001bfc44aa84746a7a8993f6, type: 2}
+  delay: 5
 --- !u!1001 &1708179823
 Prefab:
   m_ObjectHideFlags: 0
@@ -61938,6 +62032,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   FireToInstantiate: {fileID: 147166, guid: 65d77b0d001bfc44aa84746a7a8993f6, type: 2}
+  delay: 5
 --- !u!1 &1719331015
 GameObject:
   m_ObjectHideFlags: 0
@@ -62029,6 +62124,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   FireToInstantiate: {fileID: 147166, guid: 65d77b0d001bfc44aa84746a7a8993f6, type: 2}
+  delay: 5
 --- !u!1001 &1723908174
 Prefab:
   m_ObjectHideFlags: 0
@@ -62252,6 +62348,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   FireToInstantiate: {fileID: 147166, guid: 65d77b0d001bfc44aa84746a7a8993f6, type: 2}
+  delay: 5
 --- !u!1001 &1725886266
 Prefab:
   m_ObjectHideFlags: 0
@@ -62605,6 +62702,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   FireToInstantiate: {fileID: 147166, guid: 65d77b0d001bfc44aa84746a7a8993f6, type: 2}
+  delay: 5
 --- !u!1001 &1731180090
 Prefab:
   m_ObjectHideFlags: 0
@@ -63298,6 +63396,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   FireToInstantiate: {fileID: 147166, guid: 65d77b0d001bfc44aa84746a7a8993f6, type: 2}
+  delay: 5
 --- !u!1001 &1755800418
 Prefab:
   m_ObjectHideFlags: 0
@@ -65624,6 +65723,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   FireToInstantiate: {fileID: 147166, guid: 65d77b0d001bfc44aa84746a7a8993f6, type: 2}
+  delay: 5
 --- !u!1 &1787730995
 GameObject:
   m_ObjectHideFlags: 0
@@ -66185,6 +66285,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   FireToInstantiate: {fileID: 147166, guid: 65d77b0d001bfc44aa84746a7a8993f6, type: 2}
+  delay: 5
 --- !u!1001 &1803763807
 Prefab:
   m_ObjectHideFlags: 0
@@ -67141,6 +67242,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   FireToInstantiate: {fileID: 147166, guid: 65d77b0d001bfc44aa84746a7a8993f6, type: 2}
+  delay: 5
 --- !u!1001 &1838970986
 Prefab:
   m_ObjectHideFlags: 0
@@ -67610,6 +67712,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   FireToInstantiate: {fileID: 147166, guid: 65d77b0d001bfc44aa84746a7a8993f6, type: 2}
+  delay: 5
 --- !u!1 &1856163089
 GameObject:
   m_ObjectHideFlags: 0
@@ -67701,6 +67804,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   FireToInstantiate: {fileID: 147166, guid: 65d77b0d001bfc44aa84746a7a8993f6, type: 2}
+  delay: 5
 --- !u!1001 &1867326410
 Prefab:
   m_ObjectHideFlags: 0
@@ -70001,6 +70105,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   FireToInstantiate: {fileID: 147166, guid: 65d77b0d001bfc44aa84746a7a8993f6, type: 2}
+  delay: 5
 --- !u!1 &1942213660
 GameObject:
   m_ObjectHideFlags: 0
@@ -70275,6 +70380,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   FireToInstantiate: {fileID: 147166, guid: 65d77b0d001bfc44aa84746a7a8993f6, type: 2}
+  delay: 5
 --- !u!1001 &1950499085
 Prefab:
   m_ObjectHideFlags: 0
@@ -70599,6 +70705,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   FireToInstantiate: {fileID: 147166, guid: 65d77b0d001bfc44aa84746a7a8993f6, type: 2}
+  delay: 5
 --- !u!1001 &1956103865
 Prefab:
   m_ObjectHideFlags: 0
@@ -70760,6 +70867,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   FireToInstantiate: {fileID: 147166, guid: 65d77b0d001bfc44aa84746a7a8993f6, type: 2}
+  delay: 5
 --- !u!1 &1961533483
 GameObject:
   m_ObjectHideFlags: 0
@@ -70851,6 +70959,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   FireToInstantiate: {fileID: 147166, guid: 65d77b0d001bfc44aa84746a7a8993f6, type: 2}
+  delay: 5
 --- !u!1 &1962543946
 GameObject:
   m_ObjectHideFlags: 0
@@ -70942,6 +71051,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   FireToInstantiate: {fileID: 147166, guid: 65d77b0d001bfc44aa84746a7a8993f6, type: 2}
+  delay: 5
 --- !u!1001 &1967425486
 Prefab:
   m_ObjectHideFlags: 0
@@ -73402,6 +73512,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   FireToInstantiate: {fileID: 147166, guid: 65d77b0d001bfc44aa84746a7a8993f6, type: 2}
+  delay: 5
 --- !u!1 &2014204468
 GameObject:
   m_ObjectHideFlags: 0
@@ -73493,6 +73604,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   FireToInstantiate: {fileID: 147166, guid: 65d77b0d001bfc44aa84746a7a8993f6, type: 2}
+  delay: 5
 --- !u!1001 &2015183436
 Prefab:
   m_ObjectHideFlags: 0
@@ -73650,6 +73762,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   FireToInstantiate: {fileID: 147166, guid: 65d77b0d001bfc44aa84746a7a8993f6, type: 2}
+  delay: 5
 --- !u!4 &2030740797 stripped
 Transform:
   m_PrefabParentObject: {fileID: 415406, guid: bb975d633cf124849bd819ba64122c7d, type: 2}
@@ -74249,6 +74362,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   FireToInstantiate: {fileID: 147166, guid: 65d77b0d001bfc44aa84746a7a8993f6, type: 2}
+  delay: 5
 --- !u!1 &2060199158
 GameObject:
   m_ObjectHideFlags: 0
@@ -74257,6 +74371,7 @@ GameObject:
   serializedVersion: 4
   m_Component:
   - 4: {fileID: 2060199159}
+  - 114: {fileID: 2060199160}
   m_Layer: 0
   m_Name: Fire
   m_TagString: Untagged
@@ -74277,6 +74392,20 @@ Transform:
   - {fileID: 1255874777}
   m_Father: {fileID: 1477987466}
   m_RootOrder: 4
+--- !u!114 &2060199160
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 2060199158}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 464a2ec1b6824de44bdb9f63a96e7cca, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  player: {fileID: 0}
+  closeDistance: 3
+  mediumDistance: 7
 --- !u!1001 &2061432906
 Prefab:
   m_ObjectHideFlags: 0
@@ -74434,6 +74563,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   FireToInstantiate: {fileID: 147166, guid: 65d77b0d001bfc44aa84746a7a8993f6, type: 2}
+  delay: 5
 --- !u!1 &2064070024
 GameObject:
   m_ObjectHideFlags: 0
@@ -74616,6 +74746,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   FireToInstantiate: {fileID: 147166, guid: 65d77b0d001bfc44aa84746a7a8993f6, type: 2}
+  delay: 5
 --- !u!1001 &2085359145
 Prefab:
   m_ObjectHideFlags: 0
@@ -74975,6 +75106,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   FireToInstantiate: {fileID: 147166, guid: 65d77b0d001bfc44aa84746a7a8993f6, type: 2}
+  delay: 5
 --- !u!1001 &2104843649
 Prefab:
   m_ObjectHideFlags: 0
@@ -75370,6 +75502,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   FireToInstantiate: {fileID: 147166, guid: 65d77b0d001bfc44aa84746a7a8993f6, type: 2}
+  delay: 5
 --- !u!1 &2112164823
 GameObject:
   m_ObjectHideFlags: 0
@@ -77216,6 +77349,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   FireToInstantiate: {fileID: 147166, guid: 65d77b0d001bfc44aa84746a7a8993f6, type: 2}
+  delay: 5
 --- !u!1001 &2121864591
 Prefab:
   m_ObjectHideFlags: 0
@@ -77607,6 +77741,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   FireToInstantiate: {fileID: 147166, guid: 65d77b0d001bfc44aa84746a7a8993f6, type: 2}
+  delay: 5
 --- !u!1 &2139443936
 GameObject:
   m_ObjectHideFlags: 0
@@ -77698,6 +77833,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   FireToInstantiate: {fileID: 147166, guid: 65d77b0d001bfc44aa84746a7a8993f6, type: 2}
+  delay: 5
 --- !u!1001 &2140395769
 Prefab:
   m_ObjectHideFlags: 0
@@ -77905,3 +78041,4 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   FireToInstantiate: {fileID: 147166, guid: 65d77b0d001bfc44aa84746a7a8993f6, type: 2}
+  delay: 5
