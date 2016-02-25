@@ -1,0 +1,94 @@
+#+TITLE: SUS Evaluation Results
+#+Author: 
+
+* Summary 
+We were able to get 3 participants, 
+- One of whom who had some experience with VR, and had used cardboard and oculus devices before
+- Two of whom who had never interacted with VR
+  - One who had lots of experience with video games
+  - One who had minimal experience with video games
+
+As expected, the two who had never interacted with VR gave the highest scores, but unexpecedly, the person who had no 
+video game experience gave a lower score than the person who did.
+
+* What would we do differently
+We waited until we had completely finished our simulation before giving out the tests, as we wanted it to be perfect.
+However, it was not fully finished until Wednesday night, and the people we planned on being our participants had 
+mostly left. We still had 3 people fortunately, but we hoped for a larger sample size. 
+
+* Overall Results
+We were fairly pleased with the results, with all 3 participants giving at least 2 sixes. 
+
+* Data
+** The Form
++ Question 7, about how well one completed their task, was omitted, as there was no particular task to complete, 
+  except for learning about the village, which is evaluated in the education evaluation.
+
+  
+
+
+
+1) Please rate  your sense of being in the Native American Village, on the following scale from 1 to 7, where 7  represents your normal experience of being in a place.
+   I had a sense of “being there” in the Native American Village:
+   - 1. Not at all ... 7. Very much.
+2) To what extent were there times during the experience when the Native American Village was the reality for you?
+    There were times during the experience when the Native American Village was the reality for me...
+   - 1. At no time ... 7. Almost all the time.
+3) When you think back about your experience, do you think of the Native American Village more as  images that you saw, or more as somewhere that you visited?
+   The Native American Village seems to me to be more like...
+   - 1. Images  that I saw ... 7. Somewhere that I visited.
+4) During the time of the experience, which was strongest on the whole, your sense of being in the Native American Village, or of being elsewhere?
+   I had a stronger sense of...
+   - 1. Being elsewhere ... 7. Being in the Native American Village.
+5) Consider your memory of being in the Native American Village. How similar in terms of the structure of the memory is this to the structure of the memory of other places
+   you have been today? By ‘struc-ture of the memory’ 
+   consider things like the extent to which you have a visual memory of the 
+   Native American Village, whether that memory is in colour, the extent to which the memory seems vivid or 
+   realistic, its size, location in your imagination, the extent to which it is panoramic in your imag-
+   ination, and other such structural elements.
+   I think of the Native American Village as a place in a way similar to other places that I've been today...
+   - 1. Not at all ... 7. Very much so.
+
+6) During the time of the experience, did you often think to yourself that you were actually in the Native American Village?
+   During the experience I often thought that I was really standing in the Native American Village...
+   - 1. Not very often ... 7. Very much so.
+
+** Raw Data
+*** Participant 1 | Had VR experience before
+| Question # | Rating |
+|------------+--------|
+|          1 |      6 |
+|          2 |      3 |
+|          3 |      4 |
+|          4 |      3 |
+|          5 |      6 |
+|          6 |      4 |
+|------------+--------|
+|      Total | 2      |
+
+*** Participant 2 | No prior VR experience, video game experience
+
+| Question # | Rating |
+|------------+--------|
+|          1 |      6 |
+|          2 |      5 |
+|          3 |      6 |
+|          4 |      6 |
+|          5 |      7 |
+|          6 | 6      |
+|------------+--------|
+|      Total |      5 |
+*** Participant 3 | No prior VR experience, no video game experience
+| Question # | Rating |
+|------------+--------|
+|          1 |      5 |
+|          2 |      4 |
+|          3 |      6 |
+|          4 |      6 |
+|          5 |      6 |
+|          6 |      3 |
+|------------+--------|
+|      Total |      3 |
+
+** Average 
+(3 + 5 + 2)/2 = 3 1/3

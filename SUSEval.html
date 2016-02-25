@@ -1,0 +1,472 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<title>SUS Evaluation Results</title>
+<!-- 2016-02-25 Thu 06:25 -->
+<meta  http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta  name="generator" content="Org-mode" />
+<style type="text/css">
+ <!--/*--><![CDATA[/*><!--*/
+  .title  { text-align: center; }
+  .todo   { font-family: monospace; color: red; }
+  .done   { color: green; }
+  .tag    { background-color: #eee; font-family: monospace;
+            padding: 2px; font-size: 80%; font-weight: normal; }
+  .timestamp { color: #bebebe; }
+  .timestamp-kwd { color: #5f9ea0; }
+  .right  { margin-left: auto; margin-right: 0px;  text-align: right; }
+  .left   { margin-left: 0px;  margin-right: auto; text-align: left; }
+  .center { margin-left: auto; margin-right: auto; text-align: center; }
+  .underline { text-decoration: underline; }
+  #postamble p, #preamble p { font-size: 90%; margin: .2em; }
+  p.verse { margin-left: 3%; }
+  pre {
+    border: 1px solid #ccc;
+    box-shadow: 3px 3px 3px #eee;
+    padding: 8pt;
+    font-family: monospace;
+    overflow: auto;
+    margin: 1.2em;
+  }
+  pre.src {
+    position: relative;
+    overflow: visible;
+    padding-top: 1.2em;
+  }
+  pre.src:before {
+    display: none;
+    position: absolute;
+    background-color: white;
+    top: -10px;
+    right: 10px;
+    padding: 3px;
+    border: 1px solid black;
+  }
+  pre.src:hover:before { display: inline;}
+  pre.src-sh:before    { content: 'sh'; }
+  pre.src-bash:before  { content: 'sh'; }
+  pre.src-emacs-lisp:before { content: 'Emacs Lisp'; }
+  pre.src-R:before     { content: 'R'; }
+  pre.src-perl:before  { content: 'Perl'; }
+  pre.src-java:before  { content: 'Java'; }
+  pre.src-sql:before   { content: 'SQL'; }
+
+  table { border-collapse:collapse; }
+  caption.t-above { caption-side: top; }
+  caption.t-bottom { caption-side: bottom; }
+  td, th { vertical-align:top;  }
+  th.right  { text-align: center;  }
+  th.left   { text-align: center;   }
+  th.center { text-align: center; }
+  td.right  { text-align: right;  }
+  td.left   { text-align: left;   }
+  td.center { text-align: center; }
+  dt { font-weight: bold; }
+  .footpara:nth-child(2) { display: inline; }
+  .footpara { display: block; }
+  .footdef  { margin-bottom: 1em; }
+  .figure { padding: 1em; }
+  .figure p { text-align: center; }
+  .inlinetask {
+    padding: 10px;
+    border: 2px solid gray;
+    margin: 10px;
+    background: #ffffcc;
+  }
+  #org-div-home-and-up
+   { text-align: right; font-size: 70%; white-space: nowrap; }
+  textarea { overflow-x: auto; }
+  .linenr { font-size: smaller }
+  .code-highlighted { background-color: #ffff00; }
+  .org-info-js_info-navigation { border-style: none; }
+  #org-info-js_console-label
+    { font-size: 10px; font-weight: bold; white-space: nowrap; }
+  .org-info-js_search-highlight
+    { background-color: #ffff00; color: #000000; font-weight: bold; }
+  /*]]>*/-->
+</style>
+<script type="text/javascript">
+/*
+@licstart  The following is the entire license notice for the
+JavaScript code in this tag.
+
+Copyright (C) 2012-2013 Free Software Foundation, Inc.
+
+The JavaScript code in this tag is free software: you can
+redistribute it and/or modify it under the terms of the GNU
+General Public License (GNU GPL) as published by the Free Software
+Foundation, either version 3 of the License, or (at your option)
+any later version.  The code is distributed WITHOUT ANY WARRANTY;
+without even the implied warranty of MERCHANTABILITY or FITNESS
+FOR A PARTICULAR PURPOSE.  See the GNU GPL for more details.
+
+As additional permission under GNU GPL version 3 section 7, you
+may distribute non-source (e.g., minimized or compacted) forms of
+that code without the copy of the GNU GPL normally required by
+section 4, provided you include this license notice and a URL
+through which recipients can access the Corresponding Source.
+
+
+@licend  The above is the entire license notice
+for the JavaScript code in this tag.
+*/
+<!--/*--><![CDATA[/*><!--*/
+ function CodeHighlightOn(elem, id)
+ {
+   var target = document.getElementById(id);
+   if(null != target) {
+     elem.cacheClassElem = elem.className;
+     elem.cacheClassTarget = target.className;
+     target.className = "code-highlighted";
+     elem.className   = "code-highlighted";
+   }
+ }
+ function CodeHighlightOff(elem, id)
+ {
+   var target = document.getElementById(id);
+   if(elem.cacheClassElem)
+     elem.className = elem.cacheClassElem;
+   if(elem.cacheClassTarget)
+     target.className = elem.cacheClassTarget;
+ }
+/*]]>*///-->
+</script>
+</head>
+<body>
+<div id="content">
+<h1 class="title">SUS Evaluation Results</h1>
+<div id="table-of-contents">
+<h2>Table of Contents</h2>
+<div id="text-table-of-contents">
+<ul>
+<li><a href="#sec-1">1. Summary</a></li>
+<li><a href="#sec-2">2. What would we do differently</a></li>
+<li><a href="#sec-3">3. Overall Results</a></li>
+<li><a href="#sec-4">4. Data</a>
+<ul>
+<li><a href="#sec-4-1">4.1. The Form</a></li>
+<li><a href="#sec-4-2">4.2. Raw Data</a>
+<ul>
+<li><a href="#sec-4-2-1">4.2.1. Participant 1 | Had VR experience before</a></li>
+<li><a href="#sec-4-2-2">4.2.2. Participant 2 | No prior VR experience, video game experience</a></li>
+<li><a href="#sec-4-2-3">4.2.3. Participant 3 | No prior VR experience, no video game experience</a></li>
+</ul>
+</li>
+<li><a href="#sec-4-3">4.3. Average</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-sec-1" class="outline-2">
+<h2 id="sec-1"><span class="section-number-2">1</span> Summary</h2>
+<div class="outline-text-2" id="text-1">
+<p>
+We were able to get 3 participants, 
+</p>
+<ul class="org-ul">
+<li>One of whom who had some experience with VR, and had used cardboard and oculus devices before
+</li>
+<li>Two of whom who had never interacted with VR
+<ul class="org-ul">
+<li>One who had lots of experience with video games
+</li>
+<li>One who had minimal experience with video games
+</li>
+</ul>
+</li>
+</ul>
+
+<p>
+As expected, the two who had never interacted with VR gave the highest scores, but unexpecedly, the person who had no 
+video game experience gave a lower score than the person who did.
+</p>
+</div>
+</div>
+
+<div id="outline-container-sec-2" class="outline-2">
+<h2 id="sec-2"><span class="section-number-2">2</span> What would we do differently</h2>
+<div class="outline-text-2" id="text-2">
+<p>
+We waited until we had completely finished our simulation before giving out the tests, as we wanted it to be perfect.
+However, it was not fully finished until Wednesday night, and the people we planned on being our participants had 
+mostly left. We still had 3 people fortunately, but we hoped for a larger sample size. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-sec-3" class="outline-2">
+<h2 id="sec-3"><span class="section-number-2">3</span> Overall Results</h2>
+<div class="outline-text-2" id="text-3">
+<p>
+We were fairly pleased with the results, with all 3 participants giving at least 2 sixes. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-sec-4" class="outline-2">
+<h2 id="sec-4"><span class="section-number-2">4</span> Data</h2>
+<div class="outline-text-2" id="text-4">
+</div><div id="outline-container-sec-4-1" class="outline-3">
+<h3 id="sec-4-1"><span class="section-number-3">4.1</span> The Form</h3>
+<div class="outline-text-3" id="text-4-1">
+<ul class="org-ul">
+<li>Question 7, about how well one completed their task, was omitted, as there was no particular task to complete, 
+except for learning about the village, which is evaluated in the education evaluation.
+</li>
+</ul>
+
+
+
+
+
+<ol class="org-ol">
+<li>Please rate  your sense of being in the Native American Village, on the following scale from 1 to 7, where 7  represents your normal experience of being in a place.
+I had a sense of “being there” in the Native American Village:
+<ul class="org-ul">
+<li>1. Not at all &#x2026; 7. Very much.
+</li>
+</ul>
+</li>
+<li>To what extent were there times during the experience when the Native American Village was the reality for you?
+There were times during the experience when the Native American Village was the reality for me&#x2026;
+<ul class="org-ul">
+<li>1. At no time &#x2026; 7. Almost all the time.
+</li>
+</ul>
+</li>
+<li>When you think back about your experience, do you think of the Native American Village more as  images that you saw, or more as somewhere that you visited?
+The Native American Village seems to me to be more like&#x2026;
+<ul class="org-ul">
+<li>1. Images  that I saw &#x2026; 7. Somewhere that I visited.
+</li>
+</ul>
+</li>
+<li>During the time of the experience, which was strongest on the whole, your sense of being in the Native American Village, or of being elsewhere?
+I had a stronger sense of&#x2026;
+<ul class="org-ul">
+<li>1. Being elsewhere &#x2026; 7. Being in the Native American Village.
+</li>
+</ul>
+</li>
+<li>Consider your memory of being in the Native American Village. How similar in terms of the structure of the memory is this to the structure of the memory of other places
+you have been today? By ‘struc-ture of the memory’ 
+consider things like the extent to which you have a visual memory of the 
+Native American Village, whether that memory is in colour, the extent to which the memory seems vivid or 
+realistic, its size, location in your imagination, the extent to which it is panoramic in your imag-
+ination, and other such structural elements.
+I think of the Native American Village as a place in a way similar to other places that I've been today&#x2026;
+<ul class="org-ul">
+<li>1. Not at all &#x2026; 7. Very much so.
+</li>
+</ul>
+</li>
+
+<li>During the time of the experience, did you often think to yourself that you were actually in the Native American Village?
+During the experience I often thought that I was really standing in the Native American Village&#x2026;
+<ul class="org-ul">
+<li>1. Not very often &#x2026; 7. Very much so.
+</li>
+</ul>
+</li>
+</ol>
+</div>
+</div>
+
+<div id="outline-container-sec-4-2" class="outline-3">
+<h3 id="sec-4-2"><span class="section-number-3">4.2</span> Raw Data</h3>
+<div class="outline-text-3" id="text-4-2">
+</div><div id="outline-container-sec-4-2-1" class="outline-4">
+<h4 id="sec-4-2-1"><span class="section-number-4">4.2.1</span> Participant 1 | Had VR experience before</h4>
+<div class="outline-text-4" id="text-4-2-1">
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+
+
+<colgroup>
+<col  class="right" />
+
+<col  class="right" />
+</colgroup>
+<thead>
+<tr>
+<th scope="col" class="right">Question #</th>
+<th scope="col" class="right">Rating</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="right">1</td>
+<td class="right">6</td>
+</tr>
+
+<tr>
+<td class="right">2</td>
+<td class="right">3</td>
+</tr>
+
+<tr>
+<td class="right">3</td>
+<td class="right">4</td>
+</tr>
+
+<tr>
+<td class="right">4</td>
+<td class="right">3</td>
+</tr>
+
+<tr>
+<td class="right">5</td>
+<td class="right">6</td>
+</tr>
+
+<tr>
+<td class="right">6</td>
+<td class="right">4</td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td class="right">Total</td>
+<td class="right">2</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+
+<div id="outline-container-sec-4-2-2" class="outline-4">
+<h4 id="sec-4-2-2"><span class="section-number-4">4.2.2</span> Participant 2 | No prior VR experience, video game experience</h4>
+<div class="outline-text-4" id="text-4-2-2">
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+
+
+<colgroup>
+<col  class="right" />
+
+<col  class="right" />
+</colgroup>
+<thead>
+<tr>
+<th scope="col" class="right">Question #</th>
+<th scope="col" class="right">Rating</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="right">1</td>
+<td class="right">6</td>
+</tr>
+
+<tr>
+<td class="right">2</td>
+<td class="right">5</td>
+</tr>
+
+<tr>
+<td class="right">3</td>
+<td class="right">6</td>
+</tr>
+
+<tr>
+<td class="right">4</td>
+<td class="right">6</td>
+</tr>
+
+<tr>
+<td class="right">5</td>
+<td class="right">7</td>
+</tr>
+
+<tr>
+<td class="right">6</td>
+<td class="right">6</td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td class="right">Total</td>
+<td class="right">5</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<div id="outline-container-sec-4-2-3" class="outline-4">
+<h4 id="sec-4-2-3"><span class="section-number-4">4.2.3</span> Participant 3 | No prior VR experience, no video game experience</h4>
+<div class="outline-text-4" id="text-4-2-3">
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+
+
+<colgroup>
+<col  class="right" />
+
+<col  class="right" />
+</colgroup>
+<thead>
+<tr>
+<th scope="col" class="right">Question #</th>
+<th scope="col" class="right">Rating</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="right">1</td>
+<td class="right">5</td>
+</tr>
+
+<tr>
+<td class="right">2</td>
+<td class="right">4</td>
+</tr>
+
+<tr>
+<td class="right">3</td>
+<td class="right">6</td>
+</tr>
+
+<tr>
+<td class="right">4</td>
+<td class="right">6</td>
+</tr>
+
+<tr>
+<td class="right">5</td>
+<td class="right">6</td>
+</tr>
+
+<tr>
+<td class="right">6</td>
+<td class="right">3</td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td class="right">Total</td>
+<td class="right">3</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+
+<div id="outline-container-sec-4-3" class="outline-3">
+<h3 id="sec-4-3"><span class="section-number-3">4.3</span> Average</h3>
+<div class="outline-text-3" id="text-4-3">
+<p>
+(3 + 5 + 2)/2 = 3 1/3
+</p>
+</div>
+</div>
+</div>
+</div>
+<div id="postamble" class="status">
+<p class="date">Created: 2016-02-25 Thu 06:25</p>
+<p class="creator"><a href="http://www.gnu.org/software/emacs/">Emacs</a> 24.4.2 (<a href="http://orgmode.org">Org</a> mode 8.2.10)</p>
+<p class="validation"><a href="http://validator.w3.org/check?uri=referer">Validate</a></p>
+</div>
+</body>
+</html>
