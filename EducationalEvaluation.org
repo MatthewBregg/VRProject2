@@ -1,0 +1,119 @@
+#+TITLE: Educational Evaluation Results
+#+Author: 
+
+* Learning Objective
+Our goal was to educate the participants about the Mystic Massacre, and about the Pequot village.
+We wished to show how the attack was violent, and to educate the viewer on the tactics used. 
+
+#+BEGIN_QUOTE
+We wish to recreate the Mystic Massacre that took place on May 26, 1637 in which English settlers raided and set fire to the Indian held Pequot Village near the Mystic River during the Pequot War. We would like to recreate this battle to show how violent this era of settlement was and how brutal some of the attacks that took place were. 
+#+END_QUOTE
+
+We quantified this with a few questions, asking the participant what they knew going in, and then on what they 
+knew coming out.
+
+We asked
+1) I have a good understanding of how Native American settlements could have been lain out. 
+  - (strongly disagree, disagree, neutral, agree, strongly agree).
+2) I have a good understanding of the events of a famous attack on a Pequot settlement during the Pequot 
+   war
+  - (strongly disagree, disagree, neutral, agree, strongly agree).
+3) The attack on the Pequot village could be described as brutal or aggressive. 
+  - (strongly disagree, disagree, neutral, agree, strongly agree).
+4) Fire was an important part of the attack
+  - (strongly disagree, disagree, neutral, agree, strongly agree).
+   
+To gauge their knowledge of the village, and the attack tactics. 
+
+We also then asked for an example of what they learned, before, and after.
+* Participants
+We were able to get 3 participants, all three of them had minimal knowledge of the village, or the attack. 
+We hoped to get someone who had some prior knowledge, but we were unable to. 
+* What would we do differently
+We waited until we had completely finished our simulation before giving out the tests, as we wanted it to be perfect.
+However, it was not fully finished until Wednesday night, and the people we planned on being our participants had 
+mostly left. We still had 3 people fortunately, but we hoped for a larger sample size. 
+
+* Overall Results
+The results were overall positive.
+The pre surverys did not have a single agree or higher rank chosen, while the post surveys every ranking was agree, or higher.
+
+* Data
+Comments are rewritten to give the general idea of what they said, but without identifying the participants, and
+for brevity.
+** Participant 1
+*** Pre
+|       # | Rank                                        |
+|---------+---------------------------------------------|
+|       1 | neutral                                     |
+|       2 | strongly disagree                           |
+|       3 | neutral                                     |
+|       4 | neutral                                     |
+|---------+---------------------------------------------|
+| Comment | Would expect them to defend themselves well |
+|         | as they are in their own land               |
+
+
+*** Post
+|       # | Rank                                       |
+|---------+--------------------------------------------|
+|       1 | agree                                      |
+|       2 | agree                                      |
+|       3 | strongly agree                             |
+|       4 | strongly agree                             |
+|---------+--------------------------------------------|
+| Comment | No one seemed around to defend the village |
+(Note: In the mystic battle, many of the warriors were away in a raiding party, and due to time constraints, we were not able to reenact the initial skirmish at the camp gates, which eventually led to the decision to light the camp on fire.)
+
+
+
+
+
+
+
+** Participant 2
+*** Pre
+|       # | Rank              |
+|---------+-------------------|
+|       1 | disagree          |
+|       2 | strongly disagree |
+|       3 | neutral           |
+|       4 | neutral           |
+|---------+-------------------|
+| Comment | Primitive structures would not help against the settlers superior |
+|         | technology, especially guns                                              |
+
+*** Post
+|       # | Rank                                          |
+|---------+-----------------------------------------------|
+|       1 | agree                                         |
+|       2 | agree                                         |
+|       3 | strongly agree                                |
+|       4 | strongly agree                                |
+|---------+-----------------------------------------------|
+| Comment | Surprised that the walls were not taken down, |
+|         | but trapping them in with fire makes sense.   |
+
+** Participant 3
+*** Pre
+|        # | Rank              |
+|----------+-------------------|
+|        1 | disagree          |
+|        2 | strongly disagree |
+|        3 | neutral           |
+|        4 | neutral           |
+| Comment | Expected sprawling tents |
+
+*** Post
+|        # | Rank           |
+|----------+----------------|
+|        1 | agree          |
+|        2 | agree          |
+|        3 | agree          |
+|        4 | strongly agree |
+| Comment | Enjoyed the simple tents, and huts   |
+
+** Analysis
+We found it interesting how homogeneous the responses were.
+With such a small and similar sample size, this seems to suggest that the results are fairly predictable for 
+what those going into the experience with little knowledge will gain from it. 
